@@ -52,25 +52,25 @@
       <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="정한길"/><br />
       <sub><b>정한길 </b></sub><br />
       <sub>👨‍💻 라즈베리파이 lot , 대쉬보드</sub><br />
-      <a href="https://github.com/journey-ji"> GitHub</a>
+      <a href="https://github.com/hankiljung"> GitHub</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/23456789?v=4" width="100px;" alt="이두용"/><br />
       <sub><b>이두용</b></sub><br />
       <sub>🏠 홈, 검색, 게시글 CRUD</sub><br />
-      <a href="https://github.com/yeon1615">GitHub</a>
+      <a href="https://github.com/alee5899">GitHub</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/34567890?v=4" width="100px;" alt="조광진"/><br />
       <sub><b>조광진</b></sub><br />
       <sub>🛍게시글 에디터 , 웹소켓 , 라즈베리파이 iot </sub><br />
-      <a href="https://github.com/Cheorizzang">GitHub</a>
+      <a href="https://github.com/PangJin97">GitHub</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/45678901?v=4" width="100px;" alt="최재훈"/><br />
       <sub><b>최재훈</b></sub><br />
       <sub>🔐 로그인, 팔로우, 좋아요 , 회원가입</sub><br />
-      <a href="https://github.com/heejiyang">GitHub</a>
+      <a href="https://github.com/cjh1939/">GitHub</a>
     </td>
   </tr>
 </table>
