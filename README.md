@@ -1,4 +1,4 @@
-## 👋 안녕하세요! 백엔드 개발자 최재훈입니다
+## 👋 안녕하세요! 신입 개발자 최재훈입니다
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:0C0C0C,100:1F1F1F&height=300&section=header&text=Welcome%20to%20CJH's%20GitHub&fontSize=60&fontColor=ffffff)
 
