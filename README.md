@@ -22,9 +22,24 @@
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+---
+
+
+
+
+
+### 📌 프로젝트 소개 
+  <p>-작물재배 환경과 적정환경 비교 & 농장 자동화 제공 노하우를 공유하고 소통을 통해 작물을 키울때 드는 불편함 해소하고</p>
+  <p>-"최대한 사용자에게 편리하고 쉬운 웹페이지를 제작하자"</p>
 
 
 ---
+
+
+
+
+
+
 
 ### 📌 대표 프로젝트
 
@@ -78,6 +93,37 @@
 
 
 
+### 📸 프로젝트 주요 화면 구성
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/cjh1939/greenShareFront/assets/이미지1.png" width="300"/><br />
+      <b>🌱 대시보드</b><br />
+      실시간 센서 데이터를 시각화하여<br /> 환경 상태를 직관적으로 확인
+    </td>
+    <td align="center">
+      <img src="https://github.com/cjh1939/greenShareFront/assets/이미지2.png" width="300"/><br />
+      <b>📰 커뮤니티 게시판</b><br />
+      사용자 간 재배 노하우 공유 및<br /> 질문/답변 게시물 작성
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/cjh1939/greenShareFront/assets/이미지3.png" width="300"/><br />
+      <b>🔒 회원가입 및 로그인</b><br />
+      JWT 기반 인증 시스템으로<br /> 사용자 권한 및 보안 관리
+    </td>
+    <td align="center">
+      <img src="https://github.com/cjh1939/greenShareFront/assets/이미지4.png" width="300"/><br />
+      <b>📲 모바일 환경 대응</b><br />
+      React Native 앱으로<br /> 스마트폰에서 기능 최적화 제공
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ## 📁 프로젝트 구조 (1~2차 GreenShare – React 기반 웹 서비스)
@@ -113,18 +159,27 @@
 └── README.md                  # 프로젝트 설명 문서
 
 
-### 📊 GitHub 활동
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjh1939&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh1939&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
+
+
+
+
+
+
+
+
 
 ### 📫 연락처
 - 📧 이메일: `chemddhkd@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
----
+
+
+
+
+
 
 <!--
 **cjh1939/cjh1939** 님의 프로필 README입니다 ✨  
