@@ -112,20 +112,33 @@
 
 ### 📁 프로젝트 구조
 
-<details>
-<summary><b>클릭해서 보기</b></summary>
-
 ```plaintext
+plaintext
 📦 GREENSHAREFRONT
-├── 📁 src
-│   ├── 📁 apis                 # API 통신 모듈
+├── 📁 node_modules             # 설치된 외부 라이브러리
+├── 📁 public                   # 정적 리소스 (favicon, index.html 등)
+├── 📁 src                      # 프론트엔드 소스 디렉토리
+│   ├── 📁 apis                 # 서버 통신(API) 모듈
+│   │   ├── envApi.js          # 온습도, 조도, 가스 등 환경 센서 데이터 API
+│   │   ├── plantStory.js      # 커뮤니티 게시글 관련 API
+│   │   ├── qna.js             # Q&A 기능 API
+│   │   ├── standardsApi.js    # 기준값 설정 관련 API
+│   │   └── userApi.js         # 사용자 인증/정보 API
 │   ├── 📁 assets               # 이미지, 폰트 등 정적 파일
-│   ├── 📁 components           # 공통 컴포넌트
-│   ├── 📁 consts               # 센서 유형, 색상 등 상수
-│   ├── 📁 redux                # 상태 관리 모듈
-│   ├── 📁 utils                # 유틸 함수
-│   ├── App.jsx                # 루트 컴포넌트
-│   ├── main.jsx               # 진입점
-├── vite.config.js             # 빌드 설정
-├── package.json               # 의존성 정의
-└── README.md                  # 문서
+│   ├── 📁 components           # 재사용 가능한 공통 컴포넌트 모음
+│   ├── 📁 consts               # 상수 관리 (예: 센서 유형, 색상 정의 등)
+│   ├── 📁 redux                # 상태 관리 (Redux)
+│   │   ├── authCheck.js       # 로그인 체크 유틸
+│   │   ├── authSlice.js       # 사용자 상태 슬라이스
+│   │   ├── axiosInstance.js   # Axios 공통 인스턴스
+│   │   └── store.js           # Redux Store 설정
+│   ├── 📁 utils                # 날짜 포맷 등 공통 유틸 함수
+│   ├── App.jsx                # App 루트 컴포넌트
+│   ├── App.css                # 전역 스타일 정의
+│   ├── main.jsx               # React 진입점
+│   ├── index.css              # Reset 및 기본 스타일
+├── index.html                 # HTML 템플릿
+├── vite.config.js             # Vite 설정
+├── package.json               # 프로젝트 정보 및 의존성
+├── .gitignore                 # Git 제외 파일 목록
+└── README.md                  # 프로젝트 설명 문서
